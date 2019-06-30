@@ -1,0 +1,20 @@
+{
+  "name": "projectp1",
+  "version": "1.0.0",
+  "description": "javascript frameworks project part 1",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aspalvieri/jsprojectp1.git"
+  },
+  "author": "Alex Spalvieri - 200403578",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aspalvieri/jsprojectp1/issues"
+  },
+  "homepage": "https://github.com/aspalvieri/jsprojectp1#readme"
+}
